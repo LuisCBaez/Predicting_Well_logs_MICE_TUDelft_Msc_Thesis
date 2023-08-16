@@ -34,4 +34,4 @@ The repository is organized into three main folders corresponding to each datase
 **Results Folder**:
 - Contains notebooks detailing the results of this study.
 
-For a comprehensive understanding and in-depth information, please refer to the detailed report available at TUDelft: [https://repository.tudelft.nl/](TUDelft Repositories)
+For a comprehensive understanding and in-depth information, please refer to the detailed report available at TUDelft: [https://repository.tudelft.nl/] TUDelft Repositories
