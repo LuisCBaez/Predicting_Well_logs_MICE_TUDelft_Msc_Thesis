@@ -17,8 +17,8 @@ minimal user input.
 The study concludes that there's a pressing need for more research to:
 1. Minimize user input in the imputation process.
 2. Develop more robust and adaptable models.
-3. Refine preprocessing techniques and explore further combinations of well-logs.
-4. Evolve cross-validation approaches that mimic real-world scenarios.
+3. Explore preprocessing techniques and more well log combinations.
+4. Develop cross-validation approaches that mimic real-world scenarios, intervals with missing values and entire logs with missing values.
 
 ## Repository Structure
 The repository is organized into three main folders corresponding to each dataset: 
