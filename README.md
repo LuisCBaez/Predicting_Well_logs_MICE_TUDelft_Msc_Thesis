@@ -34,4 +34,14 @@ The repository is organized into three main folders corresponding to each datase
 **Results Folder**:
 - Contains notebooks detailing the results of this study.
 
+## References
+
+1. Hallam, A., Mukherjee, D., & Chassagne, R. (2022). Multivariate imputation via chained equations for elastic well log imputation and prediction. *Applied Computing and Geosciences*, 14. [doi:https://doi.org/10.1016/j.acags.2022.100083](https://doi.org/10.1016/j.acags.2022.100083).
+   
+2. Feng, R., Grana, D., & Balling, N. (2021). Imputation of missing well log data by random forest and its uncertainty analysis. *Computers & Geosciences*, 152. [doi:https://doi.org/10.1016/j.cageo.2021.104763](https://doi.org/10.1016/j.cageo.2021.104763).
+
+3. Lopes, R. L., & Jorge, A. M. (2018). Assessment of predictive learning methods for the completion of gaps in well log data. *Journal of Petroleum Science and Engineering*. [doi:https://doi.org/10.1016/j.petrol.2017.11.019](https://doi.org/10.1016/j.petrol.2017.11.019).
+
+4. Dixneuf, P., Errico, F., & Glaus, M. (2021). A computational study on imputation methods for missing environmental data. arXiv. [doi:https://doi.org/10.48550/arXiv.2108.09500](https://doi.org/10.48550/arXiv.2108.09500).
+
 For a comprehensive understanding and more information, please refer to the detailed report available at TUDelft: [TUDelft Repositories](https://repository.tudelft.nl/).
